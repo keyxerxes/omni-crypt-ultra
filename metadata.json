@@ -1,0 +1,6 @@
+{
+  "name": "KEYXERXES // OMNI-CRYPT ULTRA",
+  "description": "Zero-knowledge client-side cryptography and omni-media steganography workstation featuring AES-256-GCM, ChaCha20-Poly1305, Cascading Dual-Cipher, RSA-OAEP Hybrid, Persian/Unicode Text, 2D-DCT & RGBA Image, PCM Audio, and ISO-BMFF Video engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
